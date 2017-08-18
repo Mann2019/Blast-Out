@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: 33a7d63726fb3fb458e2f634bfec06b9
+  productGUID: 9ac79e49aeb6d6849a954a31353d14f3
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -587,8 +587,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: e4596a70-5f44-46a1-ac09-2268f5c3fe1d
-  projectName: Blast Out
+  cloudProjectId: 7d91a860-d812-44dc-8296-bc60db119091
+  projectName: Blast Out (1)
   organizationId: guru-nanak-dev-university-amritsar
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
